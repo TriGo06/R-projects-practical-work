@@ -1,0 +1,17 @@
+le nombre d’heures de charge pour différents modèles de téléphone mobile ;
+
+45.8   41.1   55.9   46.6   57.0   45.0   58.5   46.7   49.3   52.7
+54.9   48.5   40.4   44.4   51.0   44.2   59.1   46.9   50.7   43.7
+41.7   52.8   60.5   38.5   60.4   53.8   47.3   50.2   58.8   50.7
+
+le nombre d’heures passées devant la télévision pour 34 foyers ;
+
+23.1   15.9   21.0   26.0   25.1   14.7   24.2   16.6   18.2   16.5
+20.7   15.3   17.7   19.1   22.7   21.9   14.6   26.3   25.8    9.4
+17.0   21.2   17.9   24.7   21.1   17.2   19.1   22.7   24.0   24.7
+22.5    8.3   2.5    30.4
+
+le nombre de km pour aller et revenir du travail de 12 employés.
+
+3.7    14.3   11.0   26.5    5.2    4.8   24.2   16.9   8.2    26.5
+40.7   5.3
